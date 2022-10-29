@@ -41,7 +41,7 @@
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.add-item {
   display: flex;
 }
 
@@ -75,8 +75,7 @@ button:hover {
 }
 
 /* Heading */
-h3,
-.new-task{
+.title{
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -104,7 +103,7 @@ input[type="text"]:focus {
 }
 
 /* New Task */
-.new-task {
+.title {
   display: block;
   margin: 0 0 20px;
 }
